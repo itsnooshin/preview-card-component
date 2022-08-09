@@ -3,9 +3,7 @@
   html {
     font-size: 56.25%;
   }
-  body {
-    background-color: paleturquoise;
-  }
+
   .main-section {
     flex-direction: column;
     max-width: 1100px;
@@ -32,7 +30,7 @@
     font-size: 1.6rem;
     margin-bottom: 1rem;
   }
-  .attribution{
+  .attribution {
     width: 200px;
     line-height: 1.5;
     margin: 0 auto;

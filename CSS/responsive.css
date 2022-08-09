@@ -1,0 +1,40 @@
+/* resposive web pages  */
+@media (max-width: 760px) {
+  html {
+    font-size: 56.25%;
+  }
+  body {
+    background-color: paleturquoise;
+  }
+  .main-section {
+    flex-direction: column;
+    max-width: 1100px;
+    width: 90%;
+
+    margin: 30px auto;
+  }
+
+  .main-section .first {
+    width: 100%;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 1.2rem;
+  }
+  .main-section .second {
+    width: 100%;
+  }
+  .main-section .third {
+    width: 100%;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 1.2rem;
+  }
+  .boxes p {
+    max-width: 790px;
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+  }
+  .attribution{
+    width: 200px;
+    line-height: 1.5;
+    margin: 0 auto;
+  }
+}

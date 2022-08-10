@@ -11,7 +11,32 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
+## Overview
+
+### Screenshot
+
+![](./design/desktop-design.jpg)
+
+
+![](./design/mobile-design.jpg)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-column-preview-card-component--XlUq3Yoxm)
+- Live Site URL: [Add live site URL here](https://itsnooshin.github.io/preview-card-component/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+
+## Author
+
+- Frontend Mentor - [@itsnooshin](https://www.frontendmentor.io/profile/itsnooshin)
+- Twitter - [@itsnooshindev](https://www.twitter.com/itsnooshindev)
